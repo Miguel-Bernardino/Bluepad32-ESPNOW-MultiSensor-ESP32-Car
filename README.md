@@ -122,3 +122,17 @@ Adicione um arquivo `LICENSE` com a licença que preferir (ex.: MIT). Atualmente
 
 ---
 Arquivo atualizado: `README.md` — verifique e ajuste os trechos do resumo do PDF caso queira mais detalhes extraídos diretamente do `Servico1.pdf`.
+
+## Demonstrações (GIFs)
+
+Há duas animações que mostram o funcionamento do projeto: uma do robô em ação e outra do upload para o banco de dados. Coloque os arquivos GIF com os nomes abaixo na pasta `docs/gifs/` (relativa à raiz do projeto):
+
+- `docs/gifs/robot.gif` — animação do robô em ação.
+- `docs/gifs/upload.gif` — animação do processo de envio para o banco de dados.
+
+Depois de adicionar os arquivos, o README exibirá as animações assim:
+
+![Robô em ação](docs/gifs/robot.gif)
+![Upload para o banco de dados](docs/gifs/upload.gif)
+
+Se preferir, envie os GIFs por aqui (arraste e solte na conversa) e eu os adiciono ao repositório no caminho correto e atualizo o README para apontar para os nomes/paths exatos.
