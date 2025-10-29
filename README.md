@@ -125,14 +125,14 @@ Arquivo atualizado: `README.md` — verifique e ajuste os trechos do resumo do P
 
 ## Demonstrações (GIFs)
 
-Há duas animações que mostram o funcionamento do projeto: uma do robô em ação e outra do upload para o banco de dados. Coloque os arquivos GIF com os nomes abaixo na pasta `docs/gifs/` (relativa à raiz do projeto):
+Existem duas animações no repositório que mostram o funcionamento do projeto — elas já estão na pasta `to_readme/`:
 
-- `docs/gifs/robot.gif` — animação do robô em ação.
-- `docs/gifs/upload.gif` — animação do processo de envio para o banco de dados.
+- `to_readme/aaimkg.gif` — demonstração do robô em ação.
+- `to_readme/aaimzc.gif` — demonstração do upload para o banco de dados.
 
-Depois de adicionar os arquivos, o README exibirá as animações assim:
+As imagens aparecem no README assim (renderizadas pelo GitLab/GitHub):
 
-![Robô em ação](docs/gifs/robot.gif)
-![Upload para o banco de dados](docs/gifs/upload.gif)
+![Robô em ação](to_readme/aaimkg.gif)
+![Upload para o banco de dados](to_readme/aaimzc.gif)
 
-Se preferir, envie os GIFs por aqui (arraste e solte na conversa) e eu os adiciono ao repositório no caminho correto e atualizo o README para apontar para os nomes/paths exatos.
+
